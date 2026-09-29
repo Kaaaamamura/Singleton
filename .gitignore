@@ -1,0 +1,16 @@
+# Compiled Java output
+bin/
+*.class
+
+# VS Code local settings
+.vscode/
+
+# Java and build tool metadata
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Operating system files
+.DS_Store
+Thumbs.db
